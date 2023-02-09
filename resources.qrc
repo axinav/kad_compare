@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/kad_compare" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
